@@ -15,6 +15,7 @@ holoviews = "*"
 seaborn = "*"
 bokeh = "*"
 pyproj = "*"
+dask = "*"
 
 [requires]
 python_version = "3.8"
