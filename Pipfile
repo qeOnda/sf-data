@@ -16,6 +16,7 @@ seaborn = "*"
 bokeh = "*"
 pyproj = "*"
 dask = "*"
+panel = "*"
 
 [requires]
 python_version = "3.8"
