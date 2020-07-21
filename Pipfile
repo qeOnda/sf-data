@@ -17,6 +17,8 @@ bokeh = "*"
 pyproj = "*"
 dask = "*"
 panel = "*"
+folium = "*"
+geopandas = "*"
 
 [requires]
 python_version = "3.8"
